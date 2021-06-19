@@ -1,0 +1,15 @@
+input{
+    margin-bottom: 20px;
+}
+h1{
+    color: blue;
+}
+h4{
+    color: crimson;
+}
+#button_sort{
+display: none;
+}
+#list_students{
+    color: black;
+}
